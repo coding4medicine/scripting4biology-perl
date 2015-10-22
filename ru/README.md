@@ -1,4 +1,4 @@
-# Scripting for Biology - PERL (Chinese)
+# Scripting for Biology - PERL (Russian)
 
 Current book -
 

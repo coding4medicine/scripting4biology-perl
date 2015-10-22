@@ -1,4 +1,5 @@
-# Scripting for Biology - PERL (Chinese)
+# Scripting for Biology - PERL (English)
+
 
 Current book -
 
@@ -19,5 +20,6 @@ Entire series -
 | Move Seamlessly from PERL to Python | https://github.com/coding4medicine/perl2python | https://leanpub.com/perl2python |
 | Move Seamlessly from Python to GO  | https://github.com/coding4medicine/python2go | https://leanpub.com/python2go  |
 | All books together      |                                                    | https://leanpub.com/b/scripting4biology|
+
 
 
