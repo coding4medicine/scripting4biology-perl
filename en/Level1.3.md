@@ -1,15 +1,12 @@
-# Loops and conditions
+# For loops
 
 Multiplication table -
 
 ~~~~~~~~
 #!/usr/bin/perl
 
-$i=1;
-while($i<=10)
-{
+for($i=0; $i<10; $i++) {
      print 9*$i, "\n";
-      $i++;
 }
-~~~~~~~~
 
+~~~~~~~~

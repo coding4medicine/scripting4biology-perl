@@ -4,7 +4,7 @@
 
 Even though most bioinformaticians work on a variety of software packages for data analysis, efficient design and use of those software programs is not possible without understanding the properties of the underlying machine. In the next picture, we show a computer as seen by an user. The user interacts with it using a keyboard and a monitor, but the real action takes place in the large featureless box.
 
-How does the computing machine process user's requests? The question is best answered by taking a look at the circuitry inside a computer. A simplified description of the circuitry focusses on two components - hard-drive and motherboard. The hard-drive is a cylindrical unit that stores all data from users, whereas the motherboard contains chips to perform computing. From time to time, data are pulled from hard-drive into the motherboard, analyzed and then the results are sent back to hard-drive for permanent storage.
+How does the computing machine process requests from an user? The question is best answered by taking a look at the circuitry inside a computer. A simplified description of the circuitry focusses on two components - hard-drive and motherboard. The hard-drive is a cylindrical unit that stores all data from users, whereas the motherboard contains chips to perform computing. From time to time, data are pulled from hard-drive into the motherboard, analyzed and then the results are sent back to hard-drive for permanent storage.
 
 Within the motherboard, the user sees a replica of the same pattern in the form of memory (RAM) and processor. The memory is the place for temporary storage of data brought in from the hard-drive, whereas the processor performs the computing. If an user is allowed to look inside the processor, he would identify smaller fractal pattern of the same structure in terms of cache memory and a computing block called arithmethc and logical unit(ALU). Modern multi-core processors take the pattern one step further by incorporating cache inside each core in addition to the global cache memory of the processor. Finally, the ALU itself is designed with registers for holding transient data and core logical block for number crunching.
 
@@ -31,8 +31,6 @@ No matter in what language a software program is written, ultimately it is conve
 The best way to understand how a program works is by having a mental picture data flow through various pieces of hardware. Unlike sofrware programs, computing hardware is infinitely parallizable. The best way to visualize hardware is to think about flow of water. During a computing task, your data flows from its point of origin through various barriers and computing elements, get modified and finally get saved as results of calculation.
 
 Here is the simple picture of hardware. At first, raw reads sit in the hard-drive. When a program processes the reads, data gets pulled from hard-drive to memory. During every calculation, it goes through the processor and memory blocks are updated. Periodically, or at the end of calculation, data gets written in hard-drive.
-
-
 
 
 

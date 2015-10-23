@@ -1,4 +1,4 @@
-# Module 5 - An example
+# Level 5 - An example
 
 ## Reading a FASTA file
 

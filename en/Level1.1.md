@@ -1,5 +1,10 @@
+# Simple calculations
 
-A simple calculation -
+
+A computer can be used as a calculator.
+
+A. (Add table for different symbols)
+B. explain the concept of a variable
 
 ~~~~~~~~
 #!/usr/bin/perl

@@ -1,4 +1,4 @@
-Associative array  -
+# Associative arrays
 
 ~~~~~~~~
 #!/usr/bin/perl
@@ -8,4 +8,5 @@ $A{"mark"}=170;
 print %A;
 print $A{"john"},"\n";
 ~~~~~~~~
+
 

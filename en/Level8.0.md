@@ -1,4 +1,5 @@
-# Module 8 - Packages
+# Level 8 - Packages
+
 Modules/packages  -
 ~~~~~~~~
 #!/usr/bin/perl
@@ -10,21 +11,4 @@ $_=<IN>;
 $x=Useful::translate($_);
 
 print $x,"\n";
-~~~~~~~~
-Modules/packages  -
-~~~~~~~~
-#!/usr/bin/env python
-
-import Useful
-~~~~~~~~
-Modules/packages  -
-~~~~~~~~
-package main
-
-import ("fmt"
-             "Useful")
-
-func main() {
-
-}
 ~~~~~~~~

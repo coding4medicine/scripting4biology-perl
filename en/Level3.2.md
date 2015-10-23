@@ -1,11 +1,4 @@
-Associative array  -
+# Exercises
 
-~~~~~~~~
-#!/usr/bin/perl
-
-$A{"john"}=12;
-$A{"mark"}=170;
-print %A;
-print $A{"john"},"\n";
-~~~~~~~~
+Available only in the leanpub version.
 

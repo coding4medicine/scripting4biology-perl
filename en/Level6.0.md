@@ -1,4 +1,4 @@
-# Module 6 - Complex Programs
+# Level 6 - Complex Programs
 
 ## Computing GC-content
 
